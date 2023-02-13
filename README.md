@@ -1,4 +1,4 @@
-# seccon-2022-final-babyescape-writeup
+# seccon-2022-final-babyescape-solution
 ```
 ./download_and_configure_kernel.sh
 make
