@@ -1,0 +1,8 @@
+.*.swp
+*.o
+*.ko
+*.mod*
+.*.cmd
+linux-*
+modules.order
+Module.symvers
